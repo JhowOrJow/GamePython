@@ -1,0 +1,9 @@
+Coordenadas:
+
+Botão de selecionar "Iniciar": x = 363, y = 251
+
+Botão de selecionar "Controles": x = 341, y = 328
+
+Botão de selecionar "Créditos": x = 346, y = 403
+
+Botão de selecionar "Sair": x = 366, y = 479

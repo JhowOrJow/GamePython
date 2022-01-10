@@ -1,0 +1,7 @@
+Coordenadas do menu de Pause:
+
+Botão de selecionar "Retomar": x = 209, y = 298
+
+Botão de selecionar "Recomeçar": x = 196, y = 374
+
+Botão de selecionar "Sair": x = 228, y = 456

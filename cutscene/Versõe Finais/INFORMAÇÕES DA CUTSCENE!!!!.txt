@@ -1,0 +1,30 @@
+Fiquei literalmente até as 6h da manhã nisso então eu VOU acordar tarde, gente, desculpa. Vou deixar tudo explicado aqui nesse arquivinho, espero que vocês consigam fazer, mas como sempre, se não der, tudo bem. :)
+
+Amo vocês, beijos! <3
+
+----- > Informações sobre as caixas de diálogo:
+
+Todas as caixas possuem as mesmas coordenadas:
+x = 161
+y = 426
+
+Elas devem ser exibidas uma após a outra com tempo para leitura do jogador.
+
+Depois que todas as 7 caixas de diálogo forem exibidas, elas devem sumir, deixando todo o desenho do fundo visível, e só aí começa o movimento do vovô.
+
+----- > Informações sobre a posição e movimentação do vovô:
+
+O vovô começa virado de costas para o jogador (sprite vovo_costas1) na posição:
+x = 368
+y = 100
+
+Ele permanece parado nesta posição durante toda a exibição do diálogo.
+
+Depois, ele irá virar para o lado esquerdo e correr até a posição:
+
+x = 298
+y = 100
+
+Nessa posição ele virará de frente e continuará correndo para baixo no eixo y até sair da tela.
+
+FIM DA CUTSCENE -> Vai para o Menu inicial. A cutscene só tocará novamente uma vez que o jogo for aberto de novo.
